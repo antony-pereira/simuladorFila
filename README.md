@@ -1,7 +1,7 @@
 # Simulador de Fila em um Posto Bancário
 Projeto desenvolvido para a disciplina `Modelagem e Avaliação de Desempenho de Sistemas Computacionais`
 ## Explicação
-Todo o código está bem comentado, basicamente a ideia é simular o tempo de fila em um posto bancário, a primeira versão era com apenas 1 atendente, a versão final requisitada pela professora seria com opção de escolher quantos atendentes antes de iniciar a simulação, fizemos isso e o programa se adapta e faz os cálculos corretos baseado nessa escolha.
+Todo o código está bem comentado, basicamente a ideia é simular o tempo de fila em um posto bancário, a primeira versão era com apenas 1 atendente, a versão final requisitada pela professora seria com a opção de escolher quantos atendentes existem antes de iniciar a simulação, fizemos isso e o programa se adapta e faz os cálculos corretos baseado nessa escolha.
 
 É feita a geração do tipo de cada cliente aleatoriamente, o tipo determina o seu TS (tempo de serviço). 
 

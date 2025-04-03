@@ -5,7 +5,7 @@ Todo o código está bem comentado, basicamente a ideia é simular o tempo de fi
 
 É feita a geração do tipo de cada cliente aleatoriamente, o tipo determina o seu TS (tempo de serviço). 
 
-Depois disso toda a simualação é feita e todos os resultados guardados (TEC,TS, Tempo chegada no Relogio, Tempo Inicio de Serviço, Fim de Serviço, Tempo na Fila, Tempo Total no Sistema e Tempo ocioso)
+Depois disso, toda a simualação é feita e todos os resultados guardados (TEC,TS, Tempo chegada no Relogio, Tempo Inicio de Serviço, Fim de Serviço, Tempo na Fila, Tempo Total no Sistema e Tempo ocioso)
 
 Com isso são feitas algumas médias de cada simulação, com elas fazemos a média das médias e o desvio padrão, tendo esses 2 valores é feito o cálculo do Intervalo de Credibilidade de cada um.
 
